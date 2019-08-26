@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrybniak_is8210_coursework", "Hrybniak_is8210_coursework\Hrybniak_is8210_coursework.csproj", "{DB3095F6-5EC1-4A6A-B082-32FC66A4597D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSystemCalculator", "Linear_System_Calculator\LinearSystemCalculator.csproj", "{F35DD5C7-9B80-411B-958E-D28CAF28E05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3095F6-5EC1-4A6A-B082-32FC66A4597D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3095F6-5EC1-4A6A-B082-32FC66A4597D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3095F6-5EC1-4A6A-B082-32FC66A4597D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3095F6-5EC1-4A6A-B082-32FC66A4597D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35DD5C7-9B80-411B-958E-D28CAF28E05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35DD5C7-9B80-411B-958E-D28CAF28E05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35DD5C7-9B80-411B-958E-D28CAF28E05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35DD5C7-9B80-411B-958E-D28CAF28E05F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B57EBA1-3315-4E09-AF70-B2A84B73A0D1}
+	EndGlobalSection
+EndGlobal

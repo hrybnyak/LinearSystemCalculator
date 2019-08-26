@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Hrybniak_is8210_coursework\\Hrybniak_is8210_coursework.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Hrybniak_is8210_coursework\\Hrybniak_is8210_coursework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Hrybniak_is8210_coursework\\Hrybniak_is8210_coursework.csproj",
+        "projectName": "Hrybniak_is8210_coursework",
+        "projectPath": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Hrybniak_is8210_coursework\\Hrybniak_is8210_coursework.csproj",
+        "packagesPath": "C:\\Users\\Lisa\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Hrybniak_is8210_coursework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\LinearSystemCalculator.csproj": {
+                "projectPath": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\LinearSystemCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\LinearSystemCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\LinearSystemCalculator.csproj",
+        "projectName": "LinearSystemCalculator",
+        "projectPath": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\LinearSystemCalculator.csproj",
+        "packagesPath": "C:\\Users\\Lisa\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Hrybniak_is8210_coursework\\LinearSystemCalculator\\Linear_System_Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

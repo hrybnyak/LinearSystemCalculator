@@ -1,0 +1,9 @@
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\bin\Debug\netstandard2.0\LinearSystemCalculator.deps.json
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\bin\Debug\netstandard2.0\LinearSystemCalculator.dll
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\bin\Debug\netstandard2.0\LinearSystemCalculator.pdb
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.csprojAssemblyReference.cache
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.csproj.CoreCompileInputs.cache
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.AssemblyInfoInputs.cache
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.AssemblyInfo.cs
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.dll
+D:\Code\Hrybniak_is8210_coursework\LinearSystemCalculator\Linear_System_Calculator\obj\Debug\netstandard2.0\LinearSystemCalculator.pdb
